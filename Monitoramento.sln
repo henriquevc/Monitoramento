@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitoramentoService", "Monitoramento\MonitoramentoService.csproj", "{553FB8B3-0AB6-4B28-B9A6-CF2A93797510}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitoramento", "Monitoramento\Monitoramento.csproj", "{553FB8B3-0AB6-4B28-B9A6-CF2A93797510}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitoramentoWeb", "MonitoramentoWeb\MonitoramentoWeb.csproj", "{5E52674E-5E62-4557-8A6A-4FF87393BE7C}"
 EndProject
