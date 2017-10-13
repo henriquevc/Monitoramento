@@ -12,7 +12,7 @@ namespace MonitoramentoWeb.Controllers
     public class HomeController : Controller
     {
         Erros erros = new Erros();
-        List<string> telefones = new List<string>() { "5511991967697"/*, "5511947223903"*/ };
+        List<string> telefones = new List<string>() { "5511991967697", "5511938003983" };
 
         public void Index()
         {
